@@ -1,0 +1,15 @@
+Actuellement:
+-Mon boutton d'attaque qui fonctionne
+-Mon boutton pour augmenter mon attaque qui fonctionne
+-Un script qui gère les PV de l'ennemi, sa monter en PV et l'obtention de gateau a sa mort. Le script gère également l'affichage des textes du nombre de gateaux et le niveau d'attaque, et la monté en attque.
+-Un script qui gère la liste des mobs.
+
+Je rencontre des difficulter à faire fonctionner le script de la liste, ne réussisant pas à faire apparaitre les éléments de la liste.
+Je dois finir mon script des Couroutine, le refaire pour avoir le mien.
+
+Je souhaiterais rajouter le fait que certains mob ai plus de chance d'apparaitre que d'autre, et que en fonction de leurs rareter, le nombre de point de score et de gateaux qu'ils vont donner à leurs mort soit supérieur à un mob de base.
+Rajouter un gain de score à la mort de l'ennemi.
+Randomiser le mob qui apparait après chaque mort du dernier mob.
+‎ 
+
+Une autre idée serait de crée plusieurs scène avec chacune son arrière plan et son mob, il y aurait alors une boucle avec a chaque fois les ennemis dans la boucle devenant plus fort.
